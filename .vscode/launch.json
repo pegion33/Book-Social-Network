@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BookSocialNetworkApplication<BookSocialNetwork>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.Imtiaz.BookSocialNetwork.BookSocialNetworkApplication",
+            "projectName": "BookSocialNetwork",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
